@@ -1,6 +1,6 @@
 # Consecutive Add Multiplier
 
-This Verilog project simulates a comprehensive multiplier based on consecutive additions. The system is designed to take three inputs \(A\), \(B\), and \(C\), multiply \(A\) and \(B\) using consecutive additions, and output the minimum of \(A * B\) and \(C\).
+This Verilog project simulates a comprehensive multiplier based on consecutive additions. The system is designed to take three inputs \(A\), \(B\), and \(C\), multiply \(A\) and \(B\) using consecutive additions, and output the minimum of \(A\) \times \(B\) and \(C\).
 
 ![multiplication_image](https://atlas-content-cdn.pixelsquid.com/stock-images/multiplication-math-symbol-orange-KaZKA66-600.jpg)
 
