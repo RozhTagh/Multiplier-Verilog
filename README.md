@@ -40,10 +40,6 @@ The datapath and control unit are integrated to form a cohesive system where the
 
 The test bench verifies the functionality of the multiplier by simulating various input scenarios and comparing the output with expected results. This ensures the design performs as intended under different conditions.
 
-## Conclusion
-
-This Verilog project demonstrates a robust and efficient approach to multiplication using consecutive additions. The design is verified through comprehensive timing analysis and test bench simulations, making it a reliable choice for FPGA implementations.
-
 ## Usage
 
 To run the testbench, you'll need to have either ModelSim or `iverilog` installed on your computer. You can run the testbench with `iverilog` on macOS using the following command:
@@ -52,6 +48,10 @@ cd code
 iverilog -o test circuit_TB.v circuit.v
 vvp test
 ```
+
+## Conclusion
+
+This Verilog project demonstrates a robust and efficient approach to multiplication using consecutive additions. The design is verified through comprehensive timing analysis and test bench simulations, making it a reliable choice for FPGA implementations.
 
 ## Authors
 - [Rozhin Taghizadegan](https://github.com/RozhTagh)
